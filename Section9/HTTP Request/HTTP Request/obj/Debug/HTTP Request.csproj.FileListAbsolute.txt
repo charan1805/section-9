@@ -1,0 +1,85 @@
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\HTTP Request.dll.config
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\HTTP Request.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\HTTP Request.pdb
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\csc.exe
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\csc.exe.config
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\csc.rsp
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\csi.exe
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\csi.exe.config
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\csi.rsp
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.AppContext.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Collections.Immutable.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Console.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Globalization.Calendars.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.IO.Compression.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.IO.FileSystem.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Net.Http.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Net.Sockets.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Reflection.Metadata.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.ValueTuple.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Xml.XPath.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\vbc.exe
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\vbc.exe.config
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\vbc.rsp
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\VBCSCompiler.exe
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\roslyn\VBCSCompiler.exe.config
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\Antlr3.Runtime.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\Microsoft.Web.Infrastructure.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\Newtonsoft.Json.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Net.Http.Formatting.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Helpers.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Http.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Http.WebHost.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Mvc.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Optimization.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Razor.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.WebPages.Deployment.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.WebPages.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.WebPages.Razor.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\WebGrease.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\Newtonsoft.Json.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Net.Http.Formatting.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Helpers.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Http.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Http.WebHost.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Mvc.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Optimization.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.Razor.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.WebPages.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.WebPages.Deployment.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\System.Web.WebPages.Razor.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\Antlr3.Runtime.pdb
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\obj\Debug\HTTP Request.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\obj\Debug\HTTP Request.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\obj\Debug\HTTP Request.csproj.CopyComplete
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\obj\Debug\HTTP Request.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section9\HTTP Request\HTTP Request\obj\Debug\HTTP Request.pdb
